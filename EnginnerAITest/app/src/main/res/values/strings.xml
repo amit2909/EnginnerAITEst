@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EnginnerAITest</string>
+    <string name="item_selected">Items Selected %d</string>
+</resources>
